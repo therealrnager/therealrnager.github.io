@@ -10171,6 +10171,6 @@ header.masthead h1 {
 }
 
 .worldly {
-  font-family: 'Times New Roman', Times, serif;
-  
+  font-family: 'Times New Roman';
+  font-size: 10rem;
 }
